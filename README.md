@@ -39,6 +39,8 @@ Make sure you have the following files in a folder:
 2. In the popup, enter your **GitHub Personal Access Token**. This token is required to authenticate API requests to rerun failed checks.
 3. Click the **Save Token** button. You will see a confirmation message once the token is saved successfully.
 
+[Click here for instructions on how to create a GitHub Personal Access Token.](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+
 ### Step 2: Using the Extension on GitHub
 
 1. Navigate to any GitHub pull request page.
